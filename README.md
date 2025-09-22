@@ -1,6 +1,6 @@
 # A *somewhat* comprehensive setup guide for my own personal Proxmox homelab
 
-This is mainly for my own reference, however, some of these things took a lot of research, trial and error and could potentially help save someone else some time, hence why I've made this a public repository.
+This is mainly for my own reference, however, some of these things took a lot of research, trial and error, and could potentially help save someone else some time, hence why I've made this a public repository.
 
 ## Overview
 
