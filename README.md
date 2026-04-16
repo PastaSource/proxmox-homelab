@@ -18,7 +18,7 @@ As with all projects of this nature, I'm certain the scope will only increase wi
 ### Infrastructure
 
 * Proxmox installation and setup
-    * Getting started
+    * [Getting started](getting_started.md)
     * Initial setup
     * VMs vs LXC
     * GPU passthrough
