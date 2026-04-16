@@ -1,6 +1,8 @@
-# A *somewhat* comprehensive setup guide for my own personal Proxmox homelab
+# A comprehensive setup guide for my own personal Proxmox homelab
 
-This is mainly for my own reference, however, some of these things took a lot of research, trial and error, and could potentially help save someone else some time, hence why I've made this a public repository.
+I started this project as a companion piece to my homelab, documenting what I was doing for future reference. It quickly grew into something that required a lot of time, research, and trial and error. This guide is the result of that effort, created to help others who want to follow a similar path and hopefully avoid the same challenges I faced. 
+
+Most pages include a **troubleshooting** section at the bottom. If you encounter an issue, you’ll hopefully find your solution there. If not, feel free to open an issue and I’ll do my best to help!
 
 ## Overview
 
