@@ -22,13 +22,15 @@ Next, I’d recommend you start categorizing the services you want to use. This 
 
 I’m a very visual person, so for this I created a mind map. I’m going to share the mind map I created right at the beginning of my journey.
 
-![mind map original](proxmox-homelab/images/infrastructure/getting_started/mind_map_original.jpeg)
+![mind map original](../images/infrastructure/getting_started/mind_map_original.jpeg)
 
 So, after I had completed the previous steps, this is what I had: a nicely laid out and colour-coordinated visualisation of my homelab to be! A few things you might notice is that anything that requires GPU passthrough is very clearly labelled (Immich needed it too, but I forgot to add that). This also allowed me to very easily move things about, add or remove things, and add a nice little green check mark when I had finished setting something up.
 
 Here’s what it looked like towards the end of my journey of setting up my homelab (though, let’s not kid ourselves, we’re never truly finished).
 
-As you can see, I’ve moved things around, added a new category, fixed that issue with the GPU labelling for Immich, and most importantly… Lots of green check marks! I’ve also added notes here and there to help me keep track of my thoughts and things I need to do.
+![mind map final](../images/infrastructure/getting_started/mind_map_final.jpg)
+
+As you can see, I’ve moved things around, added a new category, fixed that issue with the GPU labelling for Immich, and most importantly… Lots of green check marks (I also went to the dark side)! I’ve also added notes here and there to help me keep track of my thoughts and things I need to do.
 
 ## Setting up your installer
 
@@ -37,6 +39,8 @@ The time has come! Head over to the Proxmox website and go to the downloads page
 If you’re old enough (and cool enough) like me to still have a disc drive, you can burn the ISO to disc, but outside of the coolness factor, I wouldn’t recommend this. Use a reliable USB stick.
 
 I’d recommend you use Rufus for creating your USB installer. Insert your USB stick, and select the Proxmox ISO you just downloaded. Make doubly sure you’ve got the correct device selected at the top, then click “START”!
+
+![mind map original](../images/infrastructure/getting_started/rufus.png)
 
 ## Final thoughts
 
