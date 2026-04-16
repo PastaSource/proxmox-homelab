@@ -18,7 +18,7 @@ If you’re completely new at this, it can be a bit daunting to identify the exa
 
 Orrrrrrr you could just use the services I’ve used, after all, that’s why I’ve made this guide.
 
-Next, I’d recommend you start categorizing the services you want to use. This isn’t essential, well, I guess none of this is really essential, but in doing this, it’s going to make it easier for you to keep yourself and your work organized. Plus, it helps me feel less overwhelmed by everything I need to do!
+Next, I’d recommend you start categorizing the services you want to use. This isn’t essential, well, I guess none of this is *really* essential, but in doing this, it’s going to make it easier for you to keep yourself and your work organized. Plus, it helps me feel less overwhelmed by everything I need to do!
 
 I’m a very visual person, so for this I created a mind map. I’m going to share the mind map I created right at the beginning of my journey.
 
@@ -26,7 +26,7 @@ I’m a very visual person, so for this I created a mind map. I’m going to sha
 
 So, after I had completed the previous steps, this is what I had: a nicely laid out and colour-coordinated visualisation of my homelab to be! A few things you might notice is that anything that requires GPU passthrough is very clearly labelled (Immich needed it too, but I forgot to add that). This also allowed me to very easily move things about, add or remove things, and add a nice little green check mark when I had finished setting something up.
 
-Here’s what it looked like towards the end of my journey of setting up my homelab (though, let’s not kid ourselves, we’re never truly finished).
+Here’s what it looked like towards the end of my journey of setting up my homelab (though, let’s not kid ourselves, we’re never *truly* finished).
 
 ![mind map final](../images/infrastructure/getting_started/mind_map_final.jpg)
 
