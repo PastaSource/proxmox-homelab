@@ -36,7 +36,7 @@ It sounds like using a VM is so much simpler, right? You don't need to worry abo
 
 Here are a few reasons why you'd choose a LXC container over a VM:
 - **Resource management**  
-Say you have a Proxmox server running a Ryzen 5 3600 and 16GB of RAM, running multiple VMs will quickly burn through resources, as assigned CPU and RAM is treated as dedicated. LXC containers, on the other hand, use shared resources with limits, so they can only take what they need and leave unutilized resources available for other services.
+Say you have a modest system with budget oriented hardware in it, running multiple VMs will quickly burn through those resources, as assigned CPU and RAM is treated as dedicated. LXC containers, on the other hand, use shared resources with limits, so they can only take what they need and leave unutilized resources available for other services.
 
 - **Flexibility**  
 Continuing on from the previous point, a LXC container provides greater flexibility when it comes to hardware. A VM will usually take exclusive control of a GPU, whereas LXC containers can be configured to share access to it. Meaning hardware can be utilized by various different containers.
