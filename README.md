@@ -19,17 +19,22 @@ As with all projects of this nature, I'm certain the scope will only increase wi
 
 ### Infrastructure
 
-* Proxmox installation and setup
-    * [Getting started](infrastructure/getting_started.md)
+* [**Proxmox installation and setup**](infrastructure/installation_and_setup.md)
+    * [Getting started](infrastructure/installation_and_setup.md#getting-started)
+        * [What hardware do I need?](infrastructure/installation_and_setup.md#what-hardware-do-i-need)
+        * [Identifying what you want to achieve](infrastructure/installation_and_setup.md#identifying-what-you-want-to-achieve)
+        * [Setting up your installer](infrastructure/installation_and_setup.md#setting-up-your-installer)
     * Initial setup
-    * VMs vs LXC
-    * GPU passthrough
-    * Backups
+    * GPU setup and passthrough
     * Power efficiency and optimisations
-* SSD and HDD configuration
-* Cloudflared
-* Adguard
-* Unbound
+    * Backups
+* **SSD and HDD configuration**
+* **Cloudflared**
+* **Adguard**
+* **Unbound**
+* [**FAQ**](infrastructure/getting_started.md)
+     * [Why use Proxmox?](infrastructure/getting_started.md#why-use-proxmox)
+     * [VMs vx LXC](infrastructure/getting_started.md#vms-vs-lxc)
 
 ### Internet of Things
 
