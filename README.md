@@ -32,9 +32,9 @@ As with all projects of this nature, I'm certain the scope will only increase wi
 * **Cloudflared**
 * **Adguard**
 * **Unbound**
-* [**FAQ**](infrastructure/getting_started.md)
-     * [Why use Proxmox?](infrastructure/getting_started.md#why-use-proxmox)
-     * [VMs vx LXC](infrastructure/getting_started.md#vms-vs-lxc)
+* [**FAQ**](infrastructure/faq.md)
+     * [Why use Proxmox?](infrastructure/faq.md#why-use-proxmox)
+     * [VMs vx LXC](infrastructure/faq.md#vms-vs-lxc)
 
 ### Internet of Things
 
