@@ -33,6 +33,7 @@ As with all projects of this nature, I'm certain the scope will only increase wi
 * **Adguard**
 * **Unbound**
 * [**FAQ**](infrastructure/faq.md)
+     * [What is Proxmox?](infrastructure/faq.md#what-is-proxmox)
      * [Why use Proxmox?](infrastructure/faq.md#why-use-proxmox)
      * [VMs vx LXC](infrastructure/faq.md#vms-vs-lxc)
 
