@@ -28,6 +28,10 @@ The UI might seem daunting at first, but once you actually dive into using it, y
 
 There are countless other reasons why Proxmox is a great choice for your first homelab, but these are the most important ones for me.
 
+## How do I access my Proxmox server?
+
+Once you've installed Proxmox on your target hardware, you'll no longer need any peripherals connected to it, this includes the monitor. In-fact, the installation of Proxmox is usually going to be the only time you'll need anything else connected to your homelab, everything else is done through the web browser on another system on your home network. 
+
 ## VMs vs LXC
 
 Proxmox containers (LXC) and virtual machines (VM), both have very different use cases. A LXC container will use the same underlying kernel that Proxmox is using. In plain English, this means you'd never be able to create something like a Windows Server LXC as Windows Server uses the Windows NT kernel, whilst Proxmox uses the Linux kernel. So, what do you do if you want to run Windows Server? That's when you'd want to create a VM. You can think of a VM like a completely separate computer, except virtualized and living inside of your Proxmox server. It doesn't share the host kernel, meaning you can install almost any operating system you'd like on it.
