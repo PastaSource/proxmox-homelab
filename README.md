@@ -27,6 +27,7 @@ As with all projects of this nature, I'm certain the scope will only increase wi
     * [Initial setup](infrastructure/initial_setup.md#initial-setup)
        * [Prerequisites](infrastructure/initial_setup.md#prerequisites)
        * [Install Proxmox](infrastructure/initial_setup.md#install-proxmox)
+       * [Post installation](infrastructure/initial_setup.md#post-installation)
     * GPU setup and passthrough
     * Power efficiency and optimisations
     * Backups
