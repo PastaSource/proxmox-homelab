@@ -12,7 +12,7 @@ All you're going to need for this is:
  - Wired network connection
  - And, if you're anything like me, **a big cup of coffee**
 
-*Screenshots for the installation process were taking from a VM, all other screenshots on my guide are taken from my actual homelab.*
+*Screenshots for the installation process were taken from a VM, all other screenshots on my guide are taken from my actual homelab.*
 
 ## Install Proxmox
 
