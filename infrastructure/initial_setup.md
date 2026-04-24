@@ -5,8 +5,8 @@
 
 All you're going to need for this is:
 
- - [Your hardware](./infrastructure/installation_and_setup.md#what-hardware-do-i-need)
- - [Installation media](./infrastructure/installation_and_setup.md#setting-up-your-installer)
+ - [Your hardware](../infrastructure/installation_and_setup.md#what-hardware-do-i-need)
+ - [Installation media](../infrastructure/installation_and_setup.md#setting-up-your-installer)
  - Monitor
  - Mouse and keyboard
  - Wired network connection
