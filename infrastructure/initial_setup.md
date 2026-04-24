@@ -43,7 +43,7 @@ We're already at the summary page! Double check everything you've entered. Once 
 
 ![summary](../images/infrastructure/initial_setup/install_proxmox/6.png)
 
-After a few minutes you should hopefully see the "installation successful" screen! Make a note of the IP address it provides you, as this will be the primary way you [access your Proxmox server](./infrastructure/faq.md#how-do-i-access-my-proxmox-server).
+After a few minutes you should hopefully see the "installation successful" screen! Make a note of the IP address it provides you, as this will be the primary way you [access your Proxmox server](../infrastructure/faq.md#how-do-i-access-my-proxmox-server).
 
 ![installation successful](../images/infrastructure/initial_setup/install_proxmox/7.png)
 
