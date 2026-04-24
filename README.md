@@ -24,7 +24,9 @@ As with all projects of this nature, I'm certain the scope will only increase wi
         * [What hardware do I need?](infrastructure/installation_and_setup.md#what-hardware-do-i-need)
         * [Identifying what you want to achieve](infrastructure/installation_and_setup.md#identifying-what-you-want-to-achieve)
         * [Setting up your installer](infrastructure/installation_and_setup.md#setting-up-your-installer)
-    * Initial setup
+    * [Initial setup](infrastructure/initial_setup.md#initial-setup)
+       * [Prerequisites](infrastructure/initial_setup.md#prerequisites)
+       * [Install Proxmox](infrastructure/initial_setup.md#install-proxmox)
     * GPU setup and passthrough
     * Power efficiency and optimisations
     * Backups
@@ -35,6 +37,7 @@ As with all projects of this nature, I'm certain the scope will only increase wi
 * [**FAQ**](infrastructure/faq.md)
      * [What is Proxmox?](infrastructure/faq.md#what-is-proxmox)
      * [Why use Proxmox?](infrastructure/faq.md#why-use-proxmox)
+     * [Accessing your Proxmox server](infrastructure/faq.md#how-do-i-access-my-proxmox-server)
      * [VMs vx LXC](infrastructure/faq.md#vms-vs-lxc)
 
 ### Internet of Things
