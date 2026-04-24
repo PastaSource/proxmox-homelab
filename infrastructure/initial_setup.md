@@ -39,7 +39,7 @@ You'll now be prompted to verify your network configuration. I wouldn't worry ab
 
 ![network](../images/infrastructure/initial_setup/install_proxmox/5.png)
 
-Now we're already at the summary page! Double check everything you've entered. Once you're happy, make sure that "automatically reboot" button is **unticked** and then hit install!
+We're already at the summary page! Double check everything you've entered. Once you're happy, make sure that "automatically reboot" button is **unticked** and then hit install!
 
 ![summary](../images/infrastructure/initial_setup/install_proxmox/6.png)
 
@@ -47,5 +47,7 @@ After a few minutes you should hopefully see the "installation successful" scree
 
 ![installation successful](../images/infrastructure/initial_setup/install_proxmox/7.png)
 
-Once you hit reboot you're done installing Proxmox! In the next steps we'll now be accessing it via the web browser of another device on our home network.
+Once you hit reboot, you're done installing Proxmox! 
+
+In the next steps we'll now be accessing it via the web browser of another device on our home network.
 
