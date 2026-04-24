@@ -23,7 +23,7 @@ As with all projects of this nature, I'm certain the scope will only increase wi
    * [What hardware do I need?](getting_started.md#what-hardware-do-i-need)
    * [Identifying what you want to achieve](infrastructure/getting_started.md#identifying-what-you-want-to-achieve)
    * [Setting up your installer](infrastructure/getting_started.md#setting-up-your-installer)
-* [Initial setup](infrastructure/initial_setup.md#initial-setup)
+* [Setup](infrastructure/initial_setup.md#initial-setup)
    * [Prerequisites](infrastructure/initial_setup.md#prerequisites)
    * [Install Proxmox](infrastructure/initial_setup.md#install-proxmox)
    * [Post installation](infrastructure/initial_setup.md#post-installation)
