@@ -51,3 +51,6 @@ Once you hit reboot, you're done installing Proxmox!
 
 In the next steps we'll now be accessing it via the web browser of another device on our home network.
 
+## Post installation
+
+Temp
