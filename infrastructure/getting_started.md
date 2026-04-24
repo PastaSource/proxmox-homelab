@@ -1,5 +1,3 @@
-# Installation and Setup
-
 # Getting started
 
 So, you’ve decided you want to set up a Proxmox homelab, awesome! But, where do you even start? What’s step one? My goal with this page is to get you prepared for that almighty moment where we download that Proxmox ISO and burn it onto a disc (just kidding, just wanted to flex that I’m old).
