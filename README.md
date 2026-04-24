@@ -17,29 +17,30 @@ As with all projects of this nature, I'm certain the scope will only increase wi
 
 ## Contents
 
-### Infrastructure
+### Proxmox installation, setup, and FAQ
 
-* [**Proxmox installation and setup**](infrastructure/installation_and_setup.md)
-    * [Getting started](infrastructure/installation_and_setup.md#getting-started)
-        * [What hardware do I need?](infrastructure/installation_and_setup.md#what-hardware-do-i-need)
-        * [Identifying what you want to achieve](infrastructure/installation_and_setup.md#identifying-what-you-want-to-achieve)
-        * [Setting up your installer](infrastructure/installation_and_setup.md#setting-up-your-installer)
-    * [Initial setup](infrastructure/initial_setup.md#initial-setup)
-       * [Prerequisites](infrastructure/initial_setup.md#prerequisites)
-       * [Install Proxmox](infrastructure/initial_setup.md#install-proxmox)
-       * [Post installation](infrastructure/initial_setup.md#post-installation)
-    * GPU setup and passthrough
-    * Power efficiency and optimisations
-    * Backups
-* **SSD and HDD configuration**
-* **Cloudflared**
-* **Adguard**
-* **Unbound**
+* [Getting started](infrastructure/getting_started.md#getting-started)
+   * [What hardware do I need?](getting_started.md#what-hardware-do-i-need)
+   * [Identifying what you want to achieve](infrastructure/getting_started.md#identifying-what-you-want-to-achieve)
+   * [Setting up your installer](infrastructure/getting_started.md#setting-up-your-installer)
+* [Initial setup](infrastructure/initial_setup.md#initial-setup)
+   * [Prerequisites](infrastructure/initial_setup.md#prerequisites)
+   * [Install Proxmox](infrastructure/initial_setup.md#install-proxmox)
+   * [Post installation](infrastructure/initial_setup.md#post-installation)
 * [**FAQ**](infrastructure/faq.md)
      * [What is Proxmox?](infrastructure/faq.md#what-is-proxmox)
      * [Why use Proxmox?](infrastructure/faq.md#why-use-proxmox)
      * [Accessing your Proxmox server](infrastructure/faq.md#how-do-i-access-my-proxmox-server)
      * [VMs vx LXC](infrastructure/faq.md#vms-vs-lxc)
+
+### Infrastructure
+* GPU setup and passthrough
+* Power efficiency and optimisations
+* Backups
+* **SSD and HDD configuration**
+* **Cloudflared**
+* **Adguard**
+* **Unbound**
 
 ### Internet of Things
 
