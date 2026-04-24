@@ -1,5 +1,5 @@
 
-# Initial Setup
+# Setup
 
 ## Prerequisites
 
