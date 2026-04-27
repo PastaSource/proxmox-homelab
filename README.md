@@ -27,6 +27,8 @@ As with all projects of this nature, I'm certain the scope will only increase wi
    * [Prerequisites](infrastructure/setup.md#prerequisites)
    * [Install Proxmox](infrastructure/setup.md#install-proxmox)
    * [Post installation](infrastructure/setup.md#post-installation)
+   * [Nevigating the Proxmox interface](infrastructure/setup.md#navigating-the-proxmox-interface)
+   * [Post installation tweaks](infrastructure/setup.md#post-installation-tweaks)
 * [**FAQ**](infrastructure/faq.md)
      * [What is Proxmox?](infrastructure/faq.md#what-is-proxmox)
      * [Why use Proxmox?](infrastructure/faq.md#why-use-proxmox)
