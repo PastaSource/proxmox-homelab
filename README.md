@@ -19,16 +19,20 @@ As with all projects of this nature, I'm certain the scope will only increase wi
 
 ### Proxmox installation, setup, and FAQ
 
-* [Getting started](infrastructure/getting_started.md#getting-started)
-   * [What hardware do I need?](getting_started.md#what-hardware-do-i-need)
+* [**Getting started**](infrastructure/getting_started.md#getting-started)
+   * [What hardware do I need?](infrastructure/getting_started.md#what-hardware-do-i-need)
    * [Identifying what you want to achieve](infrastructure/getting_started.md#identifying-what-you-want-to-achieve)
    * [Setting up your installer](infrastructure/getting_started.md#setting-up-your-installer)
-* [Setup](infrastructure/setup.md#initial-setup)
+* [**Setup**](infrastructure/setup.md#initial-setup)
    * [Prerequisites](infrastructure/setup.md#prerequisites)
    * [Install Proxmox](infrastructure/setup.md#install-proxmox)
    * [Post installation](infrastructure/setup.md#post-installation)
    * [Nevigating the Proxmox interface](infrastructure/setup.md#navigating-the-proxmox-interface)
    * [Post installation tweaks](infrastructure/setup.md#post-installation-tweaks)
+* [**Maintenance**](infrastructure/maintenance.md)
+   * [Updating Proxmox](infrastructure/maintenance.md#updating-proxmox)
+* [**Backups**](infrastructure/backups.md)
+   * [Overview](infrastructure/backups.md#overview)
 * [**FAQ**](infrastructure/faq.md)
      * [What is Proxmox?](infrastructure/faq.md#what-is-proxmox)
      * [Why use Proxmox?](infrastructure/faq.md#why-use-proxmox)
