@@ -220,6 +220,6 @@ I don't think we really need to disable [**Corosync**](https://dev.to/chikaraino
 
 ![pve post install8](../images/infrastructure/initial_setup/post_install_tweaks/10.png)
 
-Finally, we're asked as to whether or not we want to update Proxmox VE? Let's select **yes** for now, though I recommend reading my **how to update Proxmox** to get an idea for how to do this manually.
+Finally, we're asked as to whether or not we want to update Proxmox VE? Let's select **yes** for now, though I recommend reading my **how to update Proxmox** guide to get an idea on how to do this manually.
 
 This will take a little while, so maybe go make a cup of coffee while you wait.
