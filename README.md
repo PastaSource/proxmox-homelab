@@ -29,6 +29,8 @@ As with all projects of this nature, I'm certain the scope will only increase wi
    * [Post installation](infrastructure/setup.md#post-installation)
    * [Nevigating the Proxmox interface](infrastructure/setup.md#navigating-the-proxmox-interface)
    * [Post installation tweaks](infrastructure/setup.md#post-installation-tweaks)
+* [**Optional tweaks**](infrastructure/optional_tweaks.md)
+   * [Disable IPv6](infrastructure/optional_tweaks.md#disable-ipv6)
 * [**Maintenance**](infrastructure/maintenance.md)
    * [Updating Proxmox](infrastructure/maintenance.md#updating-proxmox)
 * [**Backups**](infrastructure/backups.md)
