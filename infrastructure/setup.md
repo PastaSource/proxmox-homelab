@@ -162,7 +162,7 @@ At the bottom of the page there is a **Tasks** log, with an **>** button on the 
 
 For now, I think that's enough. We'll naturally learn about the various different pages, options, settings, etc. Of Proxmox as we progress through this guide. 
 
-## Post installation tweaks
+## Post installation script
 
 *If you haven't yet, I recommend you read my FAQ page on **helper scripts***
 
@@ -216,10 +216,16 @@ Since we're only using a single node (our one PC running Proxmox), we can select
 
 ![pve post install7](../images/infrastructure/initial_setup/post_install_tweaks/9.png)
 
-I don't think we really need to disable [**Corosync**](https://dev.to/chikarainohara/the-heart-of-a-proxmox-cluster-understanding-corosync-for-a-stable-homelab-1h2k), so hit the down arrow to select no, and press enter.
+Corosync is typically only really needed if you have high availability, which we don't, so we can go ahead and disable that also.
 
 ![pve post install8](../images/infrastructure/initial_setup/post_install_tweaks/10.png)
 
 Finally, we're asked as to whether or not we want to update Proxmox VE? Let's select **yes** for now, though I recommend reading my **how to update Proxmox** guide to get an idea on how to do this manually.
 
 This will take a little while, so maybe go make a cup of coffee while you wait.
+
+Once it's done, you'll be instructed to perform a **hard reload** of your browser using **CTRL + SHIFT + R** once the script has finished running. This is just mitigate any potential issues caused by the changes we just made.
+
+Now you'll be prompted to reboot Proxmox VE, hit enter on **yes**.
+
+You'll likely see an error saying you've lost connection to your Proxmox instance while it reboots, after a minute or two you should be able to reconnect. Don't forget to do that **hard reload**!
