@@ -92,7 +92,7 @@ Hang on a second... I thought Proxmox is free?! Why is it **now** telling me I n
 
 Okay, so while Proxmox **is free** for home use, it will perpetually bug you about getting a subscription for their enterprise features, such as the enterprise update repository.
 
-Ideally what we'd do now is go and remove those enterprise repositories and replace them with the free "no-subscription" repository, **however**, I'm going to show you an even better trick, using **helper scripts**
+Ideally what we'd do now is go and remove those enterprise repositories and replace them with the free "no-subscription" repository, **however**, I'm going to show you an even better trick, using [**helper scripts**](../infrastructure/faq.md#helper-scripts)
 
 ## Navigating the Proxmox interface
 
@@ -164,7 +164,7 @@ For now, I think that's enough. We'll naturally learn about the various differen
 
 ## Post installation script
 
-*If you haven't yet, I recommend you read my FAQ page on **helper scripts***
+*If you haven't yet, I recommend you read my FAQ page on [**helper scripts**](../infrastructure/faq.md#helper-scripts)*
 
 We're going to use our first helper script, the [**PVE Post Install**](https://community-scripts.org/scripts?q=post%20install) script. Let's look at the description and break it down.
 
