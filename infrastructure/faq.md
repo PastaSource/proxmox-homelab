@@ -66,3 +66,41 @@ Some software might expect full access to the system or the kernel. Not only can
 You might not want hardware to be accessible by other services, instead being dedicated to a single workload. In this case, the *limitation* of hardware exclusivity becomes a positive, as you can ensure no other services can access it.
 
 At the end of the day, it comes back to identifying your needs and what you want to achieve. I'd say that the majority of the time a LXC container will be the better choice, because of its efficiency, simplicity, and flexibility. However, you will find edge case scenarios where a VM will be the superior choice.
+
+
+## Helper scripts
+
+Throughout my guides, you'll see **helper scripts** both mentioned and utilised to setup various services on our homelab.
+
+But, what exactly are "helper scripts"?
+
+> Community-driven scripts for Proxmox VE
+
+From this little sentence on the [**Proxmox VE Scripts**](https://community-scripts.org/) home page, we can ascertain that these are *unofficial* community created scripts you can use  in Proxmox. Essentially, instead of spending potentially hours setting up a new VM or LXC and researching dependencies and installation methods for the service you want to install, you can instead put your faith into the community and essentially "copy" a setup someone else has already created, and "import" that into your own homelab.
+
+Let's have a quick look at some of the benefits of using a helper script:
+
+ - **Simplicity**  
+They can get you up and running within minutes rather than potentially hours.
+
+ - **Easy to update**  
+You only need to run the script again from within the shell of your VM/LXC.
+
+ - ***Potentially* more reliable**  
+Since it's a community driven endeavour with many users and contributors, there's a greater chance that potential issues can be identified and fixed before you ever experience them.
+
+However, it's not all sunshine and roses. Here's a few potential downsides of using helper scripts:
+
+ - **Unofficial**  
+These **are** unofficial, and not officially supported or recommended by the Proxmox VE team.
+
+ - **Security**  
+You're putting your faith into the community and contributors, there's a potential for a bad faith actor to compromise the script.
+   
+ - **Learning**  
+Arguably, you're not only depriving yourself of the opportunity to learn the installation processes, but also, how to use Linux.
+
+As you can see, there's both compelling pros and cons to using helper scripts. My personal recommendation is, use helper scripts to setup services you're going to depend on to be reliable. But, also give yourself that learning opportunity. Spin up a new LXC or VM, and try setting it up for yourself.
+
+Why not visit the [**Proxmox VE Scripts**](https://community-scripts.org/)  website and see what services you could potentially run on your homelab? If nothing else, it'll give you a fantastic insight into what people are running on their homelabs.
+
