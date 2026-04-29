@@ -104,3 +104,36 @@ As you can see, there's both compelling pros and cons to using helper scripts. M
 
 Why not visit the [**Proxmox VE Scripts**](https://community-scripts.org/)  website and see what services you could potentially run on your homelab? If nothing else, it'll give you a fantastic insight into what people are running on their homelabs.
 
+
+## What is IPv6?
+
+Before we understand what IPv6 is, we must first understand what an IP address is. 
+
+When we connect to the internet, our router is assigned a unique **public** IP address, and devices connected to your router are assigned a unique (to that network) **private** IP address, usually in the following IPv4 format:
+
+> 192.168.1.1
+
+When you type in a URL, such as *www.google.com*, your device uses a DNS server to lookup what IP that domain points to. Think of DNS like an address book, you lookup the name, in this case it's *Google*, and then you can find what address *Google* lives at.
+
+Traditionally, the internet has solely relied on IPv4, which was developed all the way back in the 1980s! If it ain't broke, don't fix it, right? 
+
+Well, as you can imagine, a lot of components of IPv4 are slightly dated these days, however, the biggest issue is that **we're now running out of IP addresses!**
+
+*The internet is kind of like the universe, it just won't stop growing!*
+
+IPv4, due to it's 32bit address size, has a limit of 4.3 billion potential addresses. Which must've sounded infinite in the 80s, though these days it feels increasingly more finite. 
+
+This is where IPv6 comes in, with its 128 bit address size, allowing for 340 sextillion potential addresses, a number so big my brain can't even begin to process it. IPv6 addresses feel infinite.
+
+As you can imagine, IPv6 addresses are significantly more complex and longer than an IPv4 address, typically using the following format:
+
+> 2001:db8:0000:0000:0000:0000:0000:0000
+
+That honestly looks terrifying. However, we do have a nifty shorthand way of typing out that address, so we don't need to remember "oh yeah, there's six groups of four zeros at the end of my address. Instead of taking the time to write all of that out, we can simply write it as this:
+
+> 2001:db8::
+
+That extra colon at the end of the addresses simply tells the system that everything after that **db8** section is just groups of zeroes.
+
+Longer addresses aren't the only benefit of IPv6, but that's outside the scope of this guide. If you'd like to learn more, I'd highly recommend this article from [**OVHcloud**](https://www.ovhcloud.com/en-gb/learn/what-is-ipv6/).
+
