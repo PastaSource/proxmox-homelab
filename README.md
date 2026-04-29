@@ -41,6 +41,7 @@ As with all projects of this nature, I'm certain the scope will only increase wi
      * [Accessing your Proxmox server](infrastructure/faq.md#how-do-i-access-my-proxmox-server)
      * [VMs vx LXC](infrastructure/faq.md#vms-vs-lxc)
      * [Helper scripts](infrastructure/faq.md#helper-scripts)
+     * [What is IPv6?](infrastructure/faq.md#what-is-ipv6)
 
 ### Infrastructure
 * GPU setup and passthrough
